@@ -54,7 +54,7 @@
             android:id="@+id/profileImage"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:src="@drawable/logo"
+            android:src="@drawable/img_7"
             app:strokeWidth="2dp"
             app:strokeColor="#DDDDDD"
             app:shapeAppearanceOverlay="@style/RoundedImageView"
