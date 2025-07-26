@@ -133,7 +133,7 @@
                 android:foreground="?attr/selectableItemBackground">
 
                 <TextView
-                    android:layout_width="match_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="notifications are through sms"
                     android:textColor="#333333"
