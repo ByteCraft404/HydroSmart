@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HydroSmart</string>
+    <string name="hydro_smart_logo_description">Hydro Smart App Logo</string>
+    <string name="hand_with_water_description">A hand with water flowing from it</string>
+    <string name="google_icon_description">Google login icon</string>
+    <string name="facebook_icon_description">Facebook login icon</string>
+    <string name="back_arrow">Back</string>
+    <string name="hello">Hello,</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="new_password">New Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string-array name="dummy_dates">
+        <item>Select Date</item>
+        <item>2023-01-15</item>
+        <item>2022-06-20</item>
+        <item>2024-03-10</item>
+    </string-array>
+    <string-array name="dummy_uses">
+        <item>Select Use</item>
+        <item>Domestic</item>
+        <item>Agricultural</item>
+        <item>Industrial</item>
+        <item>Commercial</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="greeting_text">Good Morning \u2600</string>
+    <string name="user_name">Omondi Joseph</string>
+    <string name="water_level_percentage">10%</string>
+    <string name="water_level_label">Water Level</string>
+    <string name="my_borehole_title">My Borehole</string>
+    <string name="see_all">See All</string>
+    <string name="data_title">Data</string>
+    <string name="data_status">Up to date</string>
+    <string name="my_pump_title">My Pump</string>
+    <string name="my_pump_status">Running Normally</string>
+    <string name="recent_alerts_title">Recent Alerts</string>
+
+    <string name="july">30 July</string>
+    <string name="water_level_critical_message">Water level critical!\u00e2\u0080\u00a8</string>
+    <string name="below_15_im">Below 15%.Action needed</string>
+    <string name="july_28">28 July</string>
+    <string name="power_outage_message">Power outage detected!</string>
+    <string name="pump_power_supply_down">Pump power supply is down.</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_data">Data</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_settings">Settings</string>
+</resources>

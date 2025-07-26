@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="200dp"
+    android:viewportWidth="300"
+    android:viewportHeight="200">
+
+    <path
+        android:fillColor="@color/light_blue_background"
+        android:pathData="M0,0 H300 V200 H0 Z" />
+
+    <path
+        android:strokeWidth="0.5"
+        android:strokeColor="#DDDDDD"
+        android:pathData="M20,150 H280" /> <path
+    android:strokeWidth="0.5"
+    android:strokeColor="#DDDDDD"
+    android:pathData="M20,100 H280" /> <path
+    android:strokeWidth="0.5"
+    android:strokeColor="#DDDDDD"
+    android:pathData="M20,50 H280" />  <path
+    android:strokeWidth="0.5"
+    android:strokeColor="#DDDDDD"
+    android:pathData="M20,0 H280" />   <group>
+    <path
+        android:pathData="M10,10 V15 H10 L10,15 H10 L10,10 Z"
+        android:fillColor="#000000" /> <path
+    android:pathData="M10,60 V65 H10 L10,65 H10 L10,60 Z"
+    android:fillColor="#000000" /> <path
+    android:pathData="M10,110 V115 H10 L10,115 H10 L10,110 Z"
+    android:fillColor="#000000" /> <path
+    android:pathData="M10,160 V165 H10 L10,165 H10 L10,160 Z"
+    android:fillColor="#000000" /> <path
+    android:pathData="M10,195 V200 H10 L10,200 H10 L10,195 Z"
+    android:fillColor="#000000" /> </group>
+
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M30,190 V190 L60,190 V50 H30 Z" /> <path
+    android:fillColor="#F44336"
+    android:pathData="M65,190 V190 L95,190 V130 H65 Z" /> <path
+    android:fillColor="#4CAF50"
+    android:pathData="M100,190 V190 L130,190 V25 H100 Z" /> <path
+    android:fillColor="#F44336"
+    android:pathData="M135,190 V190 L165,190 V15 H135 Z" /> <path
+    android:fillColor="#4CAF50"
+    android:pathData="M170,190 V190 L200,190 V105 H170 Z" /> <path
+    android:fillColor="#F44336"
+    android:pathData="M205,190 V190 L235,190 V60 H205 Z" /> <path
+    android:fillColor="#4CAF50"
+    android:pathData="M240,190 V190 L270,190 V125 H240 Z" /> <path
+    android:fillColor="#F44336"
+    android:pathData="M275,190 V190 L305,190 V15 H275 Z" /> </vector>
